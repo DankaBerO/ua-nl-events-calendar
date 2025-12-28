@@ -2,76 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
-DTEND:20260102T000000Z
-LOCATION:Stadsgehoorzaal
-DTSTART:20260101T230000Z
-SUMMARY:VrijMiBo Friday Afternoon Drinks (NETWORKING) — Leiden
-UID:133221fa-871a-40f7-bbea-29066d7674c8@1332.org
-URL:https://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.lab-1.nl/event/helloeindhoven/
-DTEND:20251201T000000Z
-LOCATION:LAB-1
-DTSTART:20251130T230000Z
-SUMMARY:Hello Eindhoven (NETWORKING) — Eindhoven
-UID:c0f51a1c-d2df-4d3e-bac9-32f09dc33a81@c0f5.org
-URL:https://www.lab-1.nl/event/helloeindhoven/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://awca.nl/
-DTEND:20251201T000000Z
-LOCATION:Amsterdam
-DTSTART:20251130T230000Z
-SUMMARY:American Women’s Club of Amsterdam (NETWORKING) — Amsterdam
-UID:82363561-02b2-4487-9c92-9b231c0272d4@8236.org
-URL:https://awca.nl/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/events/
-DTEND:20251203T000000Z
-LOCATION:Fifth Microlab The Hague Tech BUNK Hotel
-DTSTART:20251202T230000Z
-SUMMARY:Female Ventures Networking Drinks (BUSINESS / NETWORKING) — Eindhoven Rotterdam The Hague Utrecht
-UID:26c091b2-c88b-43b5-9e44-46ba0f2e7939@26c0.org
-URL:https://femaleventures.nl/events/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.awcthehague.org/site/calendar/
 DTEND:20251202T000000Z
 LOCATION:AWC Clubhouse
 DTSTART:20251201T230000Z
 SUMMARY:(NETWORKING) — The Hague
-UID:242e2b30-06ff-4f22-bea0-56fc0e107183@242e.org
+UID:40ab4c18-d028-48f5-80ae-ce2ae0028bee@40ab.org
 URL:https://www.awcthehague.org/site/calendar/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849
-DTEND:20251229T000000Z
-LOCATION:The Social Hub
-DTSTART:20251228T230000Z
-SUMMARY:Monday Morning Coffee (NETWORKING) — The Hague
-UID:5a30da51-393b-4b39-865d-206705e38614@5a30.org
-URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://womensbusinessinitiative.net/events/#!event-list
-DTEND:20260122T000000Z
-LOCATION:ROOM ROOM
-DTSTART:20260121T230000Z
-SUMMARY:(BUSINESS/ NETWORKING) — The Hague
-UID:d1ebd512-09bf-40f6-b693-cc82b68c269c@d1eb.org
-URL:https://womensbusinessinitiative.net/events/#!event-list
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://iwcrotterdam.com/monthly-meeting/
-DTEND:20251202T000000Z
-LOCATION:Fonteinkerk
-DTSTART:20251201T230000Z
-SUMMARY:(NETWORKING) — Rotterdam
-UID:c0e47cbf-c114-4c1a-b706-a90dc2d549e7@c0e4.org
-URL:https://iwcrotterdam.com/monthly-meeting/
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
+DTEND:20260102T000000Z
+LOCATION:Stadsgehoorzaal
+DTSTART:20260101T230000Z
+SUMMARY:VrijMiBo Friday Afternoon Drinks (NETWORKING) — Leiden
+UID:5fa67bba-63b7-43df-b3bc-5724248b03c1@5fa6.org
+URL:https://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-995365814947
@@ -79,7 +25,61 @@ DTEND:20251229T000000Z
 LOCATION:The Social Hub
 DTSTART:20251228T230000Z
 SUMMARY:Monday Morning Coffee (NETWORKING) — Eindhoven
-UID:5fbf3b88-d4f7-4554-bed8-ec5ffa5c456a@5fbf.org
+UID:53f0a154-7b88-42bf-8f4f-44bb20cfe73d@53f0.org
 URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-995365814947
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://iwcrotterdam.com/monthly-meeting/
+DTEND:20251202T000000Z
+LOCATION:Fonteinkerk
+DTSTART:20251201T230000Z
+SUMMARY:(NETWORKING) — Rotterdam
+UID:c17728de-442e-4f04-86bc-5d21c3d2a6e3@c177.org
+URL:https://iwcrotterdam.com/monthly-meeting/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://awca.nl/
+DTEND:20251201T000000Z
+LOCATION:Amsterdam
+DTSTART:20251130T230000Z
+SUMMARY:American Women’s Club of Amsterdam (NETWORKING) — Amsterdam
+UID:88f90b4f-faf2-4657-97e2-9ddc3c1c7be0@88f9.org
+URL:https://awca.nl/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://womensbusinessinitiative.net/events/#!event-list
+DTEND:20260122T000000Z
+LOCATION:ROOM ROOM
+DTSTART:20260121T230000Z
+SUMMARY:(BUSINESS/ NETWORKING) — The Hague
+UID:6251f198-00da-4420-b496-73252c23f287@6251.org
+URL:https://womensbusinessinitiative.net/events/#!event-list
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849
+DTEND:20251229T000000Z
+LOCATION:The Social Hub
+DTSTART:20251228T230000Z
+SUMMARY:Monday Morning Coffee (NETWORKING) — The Hague
+UID:f40d9ef4-e116-486d-89ef-b2d6d3494de9@f40d.org
+URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.lab-1.nl/event/helloeindhoven/
+DTEND:20251201T000000Z
+LOCATION:LAB-1
+DTSTART:20251130T230000Z
+SUMMARY:Hello Eindhoven (NETWORKING) — Eindhoven
+UID:eabd727e-24d9-4d50-b4ba-e4ca989ee0e7@eabd.org
+URL:https://www.lab-1.nl/event/helloeindhoven/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/events/
+DTEND:20251203T000000Z
+LOCATION:Fifth Microlab The Hague Tech BUNK Hotel
+DTSTART:20251202T230000Z
+SUMMARY:Female Ventures Networking Drinks (BUSINESS / NETWORKING) — Eindhoven Rotterdam The Hague Utrecht
+UID:0a05e6b5-f62f-4a1f-98ad-5825445d4d49@0a05.org
+URL:https://femaleventures.nl/events/
 END:VEVENT
 END:VCALENDAR
