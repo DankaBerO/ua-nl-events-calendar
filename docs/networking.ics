@@ -2,67 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
-DTEND:20260109T000000Z
-LOCATION:Stadsgehoorzaal
-DTSTART:20260108T230000Z
-SUMMARY:VrijMiBo Friday Afternoon Drinks (NETWORKING) — Leiden
-UID:add3564c-2f9e-446c-8912-b59fb167bb7a@add3.org
-URL:https://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.awcthehague.org/site/calendar/
-DTEND:20260102T000000Z
-LOCATION:AWC Clubhouse
-DTSTART:20260101T230000Z
-SUMMARY:(NETWORKING) — The Hague
-UID:e4e73e25-d264-45a5-82b5-b64cdb3c24c8@e4e7.org
-URL:https://www.awcthehague.org/site/calendar/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/events/
-DTEND:20260103T000000Z
-LOCATION:Fifth Microlab The Hague Tech BUNK Hotel
-DTSTART:20260102T230000Z
-SUMMARY:Female Ventures Networking Drinks (BUSINESS / NETWORKING) — Eindhoven Rotterdam The Hague Utrecht
-UID:0363156c-eb21-4fa1-9243-a5644dce78ae@0363.org
-URL:https://femaleventures.nl/events/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://awca.nl/
-DTEND:20260101T000000Z
-LOCATION:Amsterdam
-DTSTART:20251231T230000Z
-SUMMARY:American Women’s Club of Amsterdam (NETWORKING) — Amsterdam
-UID:8bd07259-e84a-48b5-af35-170dd8031a07@8bd0.org
-URL:https://awca.nl/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-995365814947
-DTEND:20260112T000000Z
-LOCATION:The Social Hub
-DTSTART:20260111T230000Z
-SUMMARY:Monday Morning Coffee (NETWORKING) — Eindhoven
-UID:6c9dcef0-09ca-4b1e-aab5-3c551c58cc17@6c9d.org
-URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-995365814947
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://iwcrotterdam.com/monthly-meeting/
 DTEND:20260102T000000Z
 LOCATION:Fonteinkerk
 DTSTART:20260101T230000Z
 SUMMARY:(NETWORKING) — Rotterdam
-UID:6081a91d-7f99-4ed6-965d-07c81fa080a1@6081.org
+UID:57dec3b6-8eae-4db0-9681-26254871af69@57de.org
 URL:https://iwcrotterdam.com/monthly-meeting/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849
-DTEND:20260112T000000Z
-LOCATION:The Social Hub
-DTSTART:20260111T230000Z
-SUMMARY:Monday Morning Coffee (NETWORKING) — The Hague
-UID:ba87ba77-b0c0-4f7f-a57d-447061ca0cd4@ba87.org
-URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.lab-1.nl/event/helloeindhoven/
@@ -70,7 +16,61 @@ DTEND:20260101T000000Z
 LOCATION:LAB-1
 DTSTART:20251231T230000Z
 SUMMARY:Hello Eindhoven (NETWORKING) — Eindhoven
-UID:811c9fca-771e-4e5a-afc5-554d73ea5bcb@811c.org
+UID:ca03512b-5222-4aba-9469-94299b972a9f@ca03.org
 URL:https://www.lab-1.nl/event/helloeindhoven/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
+DTEND:20260116T000000Z
+LOCATION:Stadsgehoorzaal
+DTSTART:20260115T230000Z
+SUMMARY:VrijMiBo Friday Afternoon Drinks (NETWORKING) — Leiden
+UID:7afad834-718a-4991-be53-f88c85fdf61b@7afa.org
+URL:https://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-995365814947
+DTEND:20260112T000000Z
+LOCATION:The Social Hub
+DTSTART:20260111T230000Z
+SUMMARY:Monday Morning Coffee (NETWORKING) — Eindhoven
+UID:b3f4b148-5ce1-4f13-a5f8-1f7c7c6a0ced@b3f4.org
+URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-995365814947
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://awca.nl/
+DTEND:20260101T000000Z
+LOCATION:Amsterdam
+DTSTART:20251231T230000Z
+SUMMARY:American Women’s Club of Amsterdam (NETWORKING) — Amsterdam
+UID:454b4e8e-9bf8-4a27-9c75-1e5bbddcd389@454b.org
+URL:https://awca.nl/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/events/
+DTEND:20260103T000000Z
+LOCATION:Fifth Microlab The Hague Tech BUNK Hotel
+DTSTART:20260102T230000Z
+SUMMARY:Female Ventures Networking Drinks (BUSINESS / NETWORKING) — Eindhoven Rotterdam The Hague Utrecht
+UID:d42df836-9b6d-4003-8e86-9f52863ba658@d42d.org
+URL:https://femaleventures.nl/events/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.awcthehague.org/site/calendar/
+DTEND:20260102T000000Z
+LOCATION:AWC Clubhouse
+DTSTART:20260101T230000Z
+SUMMARY:(NETWORKING) — The Hague
+UID:32bfeca2-85e4-463a-a861-643b52103856@32bf.org
+URL:https://www.awcthehague.org/site/calendar/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849
+DTEND:20260112T000000Z
+LOCATION:The Social Hub
+DTSTART:20260111T230000Z
+SUMMARY:Monday Morning Coffee (NETWORKING) — The Hague
+UID:0a6560af-4e06-4703-9426-cb7c8234f0fc@0a65.org
+URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849
 END:VEVENT
 END:VCALENDAR
