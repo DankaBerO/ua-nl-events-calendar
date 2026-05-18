@@ -2,112 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/toastmasters-maastricht
-DTEND:20260401T230000Z
-LOCATION:Maastricht University
-DTSTART:20260401T220000Z
-SUMMARY:Toastmasters Maastricht (MEETING) — Maastricht
-UID:1f35144d-6bb2-4483-8e00-463a6aa639e6@1f35.org
-URL:https://toastmasters.nl/en/tm-clubs/toastmasters-maastricht
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/rotterdam-toastmasters
-DTEND:20050401T230000Z
-LOCATION:Nivon
-DTSTART:20050401T220000Z
-SUMMARY:Rotterdam Toastmasters (MEETING) — Rotterdam
-UID:7c11fa45-1acb-4ed9-86e9-afbbb3c75902@7c11.org
-URL:https://toastmasters.nl/en/tm-clubs/rotterdam-toastmasters
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/lighttown-speakers
-DTEND:20260519T230000Z
-LOCATION:Dynamo
-DTSTART:20260519T220000Z
-SUMMARY:Lighttown Speakers – Toastmasters (MEETING) — Eindhoven
-UID:b4d46264-28a5-4e6a-8787-a0f5936d0c95@b4d4.org
-URL:https://toastmasters.nl/en/tm-clubs/lighttown-speakers
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.meetup.com/homeloan-eindhoven/
-DTEND:20260430T230000Z
-LOCATION:Online
-DTSTART:20260430T220000Z
-SUMMARY:Buying a House in Netherlands (WEBINAR) — Eindhoven
-UID:82804de3-5b91-485b-b91c-bc84f2b53daa@8280.org
-URL:https://www.meetup.com/homeloan-eindhoven/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.heinendelftsblauw.com/workshops
-DTEND:20260516T230000Z
-LOCATION:Muntplein
-DTSTART:20260516T220000Z
-SUMMARY:Heinen Delft Blue: Paint Your Own Tile (WORKSHOP) — Amsterdam
-UID:619e4639-d0c7-4fdf-b6ea-a126f0e02b62@619e.org
-URL:https://www.heinendelftsblauw.com/workshops
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://bijderoos.nl/webshop/bake-those-buns/
-DTEND:20260522T230000Z
-LOCATION:Bij de Roos
-DTSTART:20260522T220000Z
-SUMMARY:Bake Those Buns (WORKSHOP) — Delft
-UID:a72014ec-6a9b-4a62-8485-d6352bcfdcaa@a720.org
-URL:https://bijderoos.nl/webshop/bake-those-buns/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://access-nl.org/childbirth-courses/dates-locations/
-DTEND:20260516T230000Z
-LOCATION:Verloskundigen The Estate Landhuis in de Stad
-DTSTART:20260516T220000Z
-SUMMARY:(CLASS / COURSE) — Amsterdam The Hague Utrecht
-UID:2291bb97-cb24-43de-8c98-9f68b7af68b1@2291.org
-URL:https://access-nl.org/childbirth-courses/dates-locations/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://techspoamsterdam.nl/
-DTEND:20170918T192600Z
-LOCATION:Johan Cruijff Arena
-DTSTART:20170918T182600Z
-SUMMARY:TECHSPO Amsterdam (CONFERENCE) — Amsterdam
-UID:e3940f35-feef-44f5-85b1-fc7ccf6e8122@e394.org
-URL:https://techspoamsterdam.nl/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/amsterdam-toastmasters-club
-DTEND:20260401T230000Z
-LOCATION:Amsterdam
-DTSTART:20260401T220000Z
-SUMMARY:Amsterdam Toastmasters (MEETING) — Amsterdam
-UID:af12e647-d89b-4840-b006-53cfe4a65413@af12.org
-URL:https://toastmasters.nl/en/tm-clubs/amsterdam-toastmasters-club
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://boomchicago.nl/academy/improv-taster-class/
-DTEND:20260522T230000Z
-LOCATION:BOOM Chicago
-DTSTART:20260522T220000Z
-SUMMARY:Improv Taster Class (CLASS) — Amsterdam
-UID:7703189d-0a5a-4bd6-89dc-a9f62291f51b@7703.org
-URL:https://boomchicago.nl/academy/improv-taster-class/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.latelier-de-pandora.com/product/open-crochet-studio/
-DTEND:20260521T230000Z
-LOCATION:L’Atelier De Pandora
-DTSTART:20260521T220000Z
-SUMMARY:Open Crochet Studio (WORKSHOP) — Utrecht
-UID:cff03fab-9278-42cf-94d2-bc7b150584c4@cff0.org
-URL:https://www.latelier-de-pandora.com/product/open-crochet-studio/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://blond-amsterdam.com/over-blond-amsterdam/cafe-en-workshops/
-DTEND:20260503T230000Z
-LOCATION:Blond Amsterdam
-DTSTART:20260503T220000Z
-SUMMARY:Paint Your Own Blond Amsterdam (WORKSHOP) — Amsterdam
-UID:6a1a870f-bfa2-4af5-bdbc-b30db22adc49@6a1a.org
-URL:https://blond-amsterdam.com/over-blond-amsterdam/cafe-en-workshops/
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.modeworkshops.nl/english/ongoing-sewing-classes
+DTEND:20260518T230000Z
+LOCATION:Tessuti Stoffen & Zo
+DTSTART:20260518T220000Z
+SUMMARY:Sewing Classes (CLASS) — The Hague
+UID:ca975f39-93b7-439b-850d-eb8cf3bfa600@ca97.org
+URL:https://www.modeworkshops.nl/english/ongoing-sewing-classes
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/toastmasters-of-the-hague
@@ -115,26 +16,44 @@ DTEND:20260301T000000Z
 LOCATION:Christus Triumfatorkerk
 DTSTART:20260228T230000Z
 SUMMARY:Toastmasters of The Hague (MEETING) — The Hague
-UID:11a7320d-153e-4c35-826c-2154b0644ae7@11a7.org
+UID:07138b0f-f5ef-47e3-a2d2-e22354b92193@0713.org
 URL:https://toastmasters.nl/en/tm-clubs/toastmasters-of-the-hague
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://access-nl.org/volunteering-for-access/info-morning-dates/
-DTEND:20260601T230000Z
-LOCATION:ACCESS
-DTSTART:20260601T220000Z
-SUMMARY:(INFO SESSION) — The Hague
-UID:23edd06b-1612-4aec-8ac9-979a43fa8402@23ed.org
-URL:https://access-nl.org/volunteering-for-access/info-morning-dates/
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.meetup.com/homeloan-eindhoven/
+DTEND:20260430T230000Z
+LOCATION:Online
+DTSTART:20260430T220000Z
+SUMMARY:Buying a House in Netherlands (WEBINAR) — Eindhoven
+UID:aeca551c-33d5-42bf-a90c-23239230d7f0@aeca.org
+URL:https://www.meetup.com/homeloan-eindhoven/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/amstelveen
-DTEND:20260401T230000Z
-LOCATION:Stadsplein 99
-DTSTART:20260401T220000Z
-SUMMARY:Amstelveen Toastmasters (MEETING) — Amstelveen
-UID:7b70790c-3526-4fb7-8dcc-96dda7eb016d@7b70.org
-URL:https://toastmasters.nl/en/tm-clubs/amstelveen
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/lighttown-speakers
+DTEND:20260519T230000Z
+LOCATION:Dynamo
+DTSTART:20260519T220000Z
+SUMMARY:Lighttown Speakers – Toastmasters (MEETING) — Eindhoven
+UID:dddd0964-7a81-4491-a46e-316e28341ae1@dddd.org
+URL:https://toastmasters.nl/en/tm-clubs/lighttown-speakers
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/u-speak
+DTEND:20260301T000000Z
+LOCATION:Florin
+DTSTART:20260228T230000Z
+SUMMARY:U-Speak! Toastmasters (MEETING) — Utrecht
+UID:33fe9e8a-d72f-437a-ac8e-c7fc4a22c4a0@33fe.org
+URL:https://toastmasters.nl/en/tm-clubs/u-speak
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.heinendelftsblauw.com/workshops
+DTEND:20260523T230000Z
+LOCATION:Muntplein
+DTSTART:20260523T220000Z
+SUMMARY:Heinen Delft Blue: Paint Your Own Tile (WORKSHOP) — Amsterdam
+UID:f513702b-d525-48ab-8a4c-453810ca2071@f513.org
+URL:https://www.heinendelftsblauw.com/workshops
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/the-hague-university-toastmasters
@@ -142,17 +61,8 @@ DTEND:20260519T230000Z
 LOCATION:The Hague University
 DTSTART:20260519T220000Z
 SUMMARY:The Hague University Toastmasters (MEETING) — The Hague
-UID:f1e975d8-8c3f-47e3-b1e8-94d72203e56b@f1e9.org
+UID:34f8d9f6-6097-436b-9391-8c9d30988533@34f8.org
 URL:https://toastmasters.nl/en/tm-clubs/the-hague-university-toastmasters
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.modeworkshops.nl/english/ongoing-sewing-classes
-DTEND:20260518T230000Z
-LOCATION:Tessuti Stoffen & Zo
-DTSTART:20260518T220000Z
-SUMMARY:Sewing Classes (CLASS) — The Hague
-UID:4190acfd-f694-4502-a44b-aa04f64ad4f6@4190.org
-URL:https://www.modeworkshops.nl/english/ongoing-sewing-classes
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://tmclub.eu/portal.php?c=312
@@ -160,7 +70,7 @@ DTEND:20260521T230000Z
 LOCATION:Florin
 DTSTART:20260521T220000Z
 SUMMARY:Utrecht Toastmasters (MEETING) — Utrecht
-UID:b7ea9eba-96ed-45f7-8141-3cef82ba3b47@b7ea.org
+UID:c2bb3567-a0bc-4b4e-87bb-70dd408ee9f6@c2bb.org
 URL:https://tmclub.eu/portal.php?c=312
 END:VEVENT
 BEGIN:VEVENT
@@ -169,44 +79,17 @@ DTEND:20260401T230000Z
 LOCATION:Lutheran Church
 DTSTART:20260401T220000Z
 SUMMARY:Breda International Toastmasters (MEETING) — Breda
-UID:6a6098df-d8f5-4cc9-9ea9-a2a65720771f@6a60.org
+UID:01fffa47-0728-4b79-a487-f6eefa6f5e13@01ff.org
 URL:https://toastmasters.nl/en/tm-clubs/breda-international-toastmasters
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/toastmasters-groningen
-DTEND:20260301T000000Z
-LOCATION:Lust Cafe
-DTSTART:20260228T230000Z
-SUMMARY:Toastmasters Groningen (MEETING) — Groningen
-UID:c02d63f4-201c-4937-9a8e-f1b267ae6cfc@c02d.org
-URL:https://toastmasters.nl/en/tm-clubs/toastmasters-groningen
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/fusion-toastmasters
-DTEND:20260401T230000Z
-LOCATION:Jordaan
-DTSTART:20260401T220000Z
-SUMMARY:Fusion Toastmasters (MEETING) — Amsterdam
-UID:422c25b2-c3e9-4c80-ba0d-678e0406dcdb@422c.org
-URL:https://toastmasters.nl/en/tm-clubs/fusion-toastmasters
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/leiden-toastmasters
-DTEND:20260401T230000Z
-LOCATION:Dorpcentrum
-DTSTART:20260401T220000Z
-SUMMARY:Leiden Toastmasters (MEETING) — Oegstgeest
-UID:45c61b8f-72bd-4455-ac0f-67dc563d09da@45c6.org
-URL:https://toastmasters.nl/en/tm-clubs/leiden-toastmasters
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/u-speak
-DTEND:20260301T000000Z
-LOCATION:Florin
-DTSTART:20260228T230000Z
-SUMMARY:U-Speak! Toastmasters (MEETING) — Utrecht
-UID:bf233486-0031-43fa-a558-31ebeb3df1fb@bf23.org
-URL:https://toastmasters.nl/en/tm-clubs/u-speak
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://access-nl.org/volunteering-for-access/info-morning-dates/
+DTEND:20260601T230000Z
+LOCATION:ACCESS
+DTSTART:20260601T220000Z
+SUMMARY:(INFO SESSION) — The Hague
+UID:0bfe0889-8cad-4df6-9928-d1a3748e9501@0bfe.org
+URL:https://access-nl.org/volunteering-for-access/info-morning-dates/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://twitchcon.com/
@@ -214,7 +97,124 @@ DTEND:20300531T192600Z
 LOCATION:Ahoy
 DTSTART:20300531T182600Z
 SUMMARY:TwitchCon (CONFERENCE) — Rotterdam
-UID:520beb68-56fe-459f-8e2a-c9b64ffe4c01@520b.org
+UID:17dcf2a8-95c5-469a-b9eb-848080cbd94b@17dc.org
 URL:https://twitchcon.com/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/amsterdam-toastmasters-club
+DTEND:20260401T230000Z
+LOCATION:Amsterdam
+DTSTART:20260401T220000Z
+SUMMARY:Amsterdam Toastmasters (MEETING) — Amsterdam
+UID:f78c0076-cbbb-4740-8667-e09ec0d8c61b@f78c.org
+URL:https://toastmasters.nl/en/tm-clubs/amsterdam-toastmasters-club
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/rotterdam-toastmasters
+DTEND:20050401T230000Z
+LOCATION:Nivon
+DTSTART:20050401T220000Z
+SUMMARY:Rotterdam Toastmasters (MEETING) — Rotterdam
+UID:58f73e91-204e-49fa-980f-742be1108f84@58f7.org
+URL:https://toastmasters.nl/en/tm-clubs/rotterdam-toastmasters
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/toastmasters-maastricht
+DTEND:20260401T230000Z
+LOCATION:Maastricht University
+DTSTART:20260401T220000Z
+SUMMARY:Toastmasters Maastricht (MEETING) — Maastricht
+UID:09cbff70-c0d9-4866-841d-c564392a206f@09cb.org
+URL:https://toastmasters.nl/en/tm-clubs/toastmasters-maastricht
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/toastmasters-groningen
+DTEND:20260301T000000Z
+LOCATION:Lust Cafe
+DTSTART:20260228T230000Z
+SUMMARY:Toastmasters Groningen (MEETING) — Groningen
+UID:456d84de-386f-4b94-8e44-e466c0bb2fee@456d.org
+URL:https://toastmasters.nl/en/tm-clubs/toastmasters-groningen
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://access-nl.org/childbirth-courses/dates-locations/
+DTEND:20260517T230000Z
+LOCATION:Verloskundigen The Estate Landhuis in de Stad
+DTSTART:20260517T220000Z
+SUMMARY:(CLASS / COURSE) — Amsterdam The Hague Utrecht
+UID:c3ec6e35-edc2-43b3-81c6-adb65f67a627@c3ec.org
+URL:https://access-nl.org/childbirth-courses/dates-locations/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://bijderoos.nl/webshop/bake-those-buns/
+DTEND:20260522T230000Z
+LOCATION:Bij de Roos
+DTSTART:20260522T220000Z
+SUMMARY:Bake Those Buns (WORKSHOP) — Delft
+UID:e76a1193-3f87-4db8-a65f-105078f5956e@e76a.org
+URL:https://bijderoos.nl/webshop/bake-those-buns/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://boomchicago.nl/academy/improv-taster-class/
+DTEND:20260522T230000Z
+LOCATION:BOOM Chicago
+DTSTART:20260522T220000Z
+SUMMARY:Improv Taster Class (CLASS) — Amsterdam
+UID:ac996045-2acc-4b50-b5d2-858cd189cdb8@ac99.org
+URL:https://boomchicago.nl/academy/improv-taster-class/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/leiden-toastmasters
+DTEND:20260401T230000Z
+LOCATION:Dorpcentrum
+DTSTART:20260401T220000Z
+SUMMARY:Leiden Toastmasters (MEETING) — Oegstgeest
+UID:2ea3b52a-72e9-46b8-9441-3f0b679b219e@2ea3.org
+URL:https://toastmasters.nl/en/tm-clubs/leiden-toastmasters
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/amstelveen
+DTEND:20260401T230000Z
+LOCATION:Stadsplein 99
+DTSTART:20260401T220000Z
+SUMMARY:Amstelveen Toastmasters (MEETING) — Amstelveen
+UID:f0793eef-ba02-4e1d-acb1-7de3117268dd@f079.org
+URL:https://toastmasters.nl/en/tm-clubs/amstelveen
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/fusion-toastmasters
+DTEND:20260401T230000Z
+LOCATION:Jordaan
+DTSTART:20260401T220000Z
+SUMMARY:Fusion Toastmasters (MEETING) — Amsterdam
+UID:37130e71-9ce8-4538-8f22-f6282163f5e9@3713.org
+URL:https://toastmasters.nl/en/tm-clubs/fusion-toastmasters
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://techspoamsterdam.nl/
+DTEND:20170918T192600Z
+LOCATION:Johan Cruijff Arena
+DTSTART:20170918T182600Z
+SUMMARY:TECHSPO Amsterdam (CONFERENCE) — Amsterdam
+UID:29606822-89d8-453b-b5f0-1adcab9d79a1@2960.org
+URL:https://techspoamsterdam.nl/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.latelier-de-pandora.com/product/open-crochet-studio/
+DTEND:20260521T230000Z
+LOCATION:L’Atelier De Pandora
+DTSTART:20260521T220000Z
+SUMMARY:Open Crochet Studio (WORKSHOP) — Utrecht
+UID:08c73737-04cc-4821-ab80-099b37c71c23@08c7.org
+URL:https://www.latelier-de-pandora.com/product/open-crochet-studio/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://blond-amsterdam.com/over-blond-amsterdam/cafe-en-workshops/
+DTEND:20260503T230000Z
+LOCATION:Blond Amsterdam
+DTSTART:20260503T220000Z
+SUMMARY:Paint Your Own Blond Amsterdam (WORKSHOP) — Amsterdam
+UID:a203d451-ea62-48af-9971-fb2ece1aa31e@a203.org
+URL:https://blond-amsterdam.com/over-blond-amsterdam/cafe-en-workshops/
 END:VEVENT
 END:VCALENDAR
