@@ -7,26 +7,8 @@ DTEND:20260601T230000Z
 LOCATION:Fonteinkerk
 DTSTART:20260601T220000Z
 SUMMARY:(NETWORKING) — Rotterdam
-UID:b78de2cb-c8b1-4505-890a-bb1d8d915e53@b78d.org
+UID:7eccb11b-16ea-4ea8-b39d-ae3488ae1329@7ecc.org
 URL:https://iwcrotterdam.com/monthly-meeting/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.awcthehague.org/site/calendar/
-DTEND:20260601T230000Z
-LOCATION:AWC Clubhouse
-DTSTART:20260601T220000Z
-SUMMARY:(NETWORKING) — The Hague
-UID:c2d21cc0-a7a0-467a-b9a9-b8d8f716903e@c2d2.org
-URL:https://www.awcthehague.org/site/calendar/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
-DTEND:20260625T230000Z
-LOCATION:Stadsgehoorzaal
-DTSTART:20260625T220000Z
-SUMMARY:VrijMiBo Friday Afternoon Drinks (NETWORKING) — Leiden
-UID:882ec25d-4f07-499e-886b-6c56f86ddac8@882e.org
-URL:https://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849?viewDetails=true
@@ -34,8 +16,26 @@ DTEND:20260628T230000Z
 LOCATION:The Social Hub
 DTSTART:20260628T220000Z
 SUMMARY:Monday Morning Coffee (NETWORKING) — The Hague
-UID:d240dc26-b27b-41ca-814f-5ddece791050@d240.org
+UID:27292e44-e59d-4b52-99f7-df0751472f52@2729.org
 URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849?viewDetails=true
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.awcthehague.org/site/calendar/
+DTEND:20260601T230000Z
+LOCATION:AWC Clubhouse
+DTSTART:20260601T220000Z
+SUMMARY:(NETWORKING) — The Hague
+UID:207052ba-587b-4257-8f85-e720adcdb2c1@2070.org
+URL:https://www.awcthehague.org/site/calendar/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/events/
+DTEND:20260602T230000Z
+LOCATION:Fifth Microlab The Hague Tech BUNK Hotel
+DTSTART:20260602T220000Z
+SUMMARY:Female Ventures Networking Drinks (BUSINESS / NETWORKING) — Eindhoven Rotterdam The Hague Utrecht
+UID:285f1dd5-9373-4414-8652-1415ccf6c928@285f.org
+URL:https://femaleventures.nl/events/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1975823232476
@@ -43,7 +43,7 @@ DTEND:20260628T230000Z
 LOCATION:The Social Hub
 DTSTART:20260628T220000Z
 SUMMARY:Monday Morning Coffee (NETWORKING) — Eindhoven
-UID:37f0e19e-ddc3-4e2c-8169-bb7332357c14@37f0.org
+UID:1bc491c7-629c-4cab-9bdc-9409bcfc03b1@1bc4.org
 URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1975823232476
 END:VEVENT
 BEGIN:VEVENT
@@ -52,7 +52,7 @@ DTEND:20260531T230000Z
 LOCATION:Amsterdam
 DTSTART:20260531T220000Z
 SUMMARY:American Women’s Club of Amsterdam (NETWORKING) — Amsterdam
-UID:a7d01ebe-30ef-4918-bc96-e35dee9c9b0f@a7d0.org
+UID:ea250ffd-96ce-48a4-972e-eb543a2f7cb8@ea25.org
 URL:https://awca.nl/
 END:VEVENT
 BEGIN:VEVENT
@@ -61,16 +61,16 @@ DTEND:20260531T230000Z
 LOCATION:LAB-1
 DTSTART:20260531T220000Z
 SUMMARY:Hello Eindhoven (NETWORKING) — Eindhoven
-UID:4bfaf9d4-f099-496b-8205-3955d01ec949@4bfa.org
+UID:7bb76b7f-d4a5-4a3c-b854-52eaa5540fa9@7bb7.org
 URL:https://www.lab-1.nl/event/helloeindhoven/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/events/
-DTEND:20260602T230000Z
-LOCATION:Fifth Microlab The Hague Tech BUNK Hotel
-DTSTART:20260602T220000Z
-SUMMARY:Female Ventures Networking Drinks (BUSINESS / NETWORKING) — Eindhoven Rotterdam The Hague Utrecht
-UID:88621b9d-e84d-4347-92b3-19d79b40761a@8862.org
-URL:https://femaleventures.nl/events/
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
+DTEND:20260625T230000Z
+LOCATION:Stadsgehoorzaal
+DTSTART:20260625T220000Z
+SUMMARY:VrijMiBo Friday Afternoon Drinks (NETWORKING) — Leiden
+UID:30af31a3-1d6e-4435-9a09-e1e5643bcda8@30af.org
+URL:https://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
 END:VEVENT
 END:VCALENDAR
