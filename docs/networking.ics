@@ -7,17 +7,17 @@ DTEND:20260801T230000Z
 LOCATION:AWC Clubhouse
 DTSTART:20260801T220000Z
 SUMMARY:(NETWORKING) — The Hague
-UID:a874e292-3cad-489f-b89e-076e87ff839e@a874.org
+UID:cc1c652e-da96-4c70-914b-9b7ef7e7f3f5@cc1c.org
 URL:https://www.awcthehague.org/site/calendar/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://iwcrotterdam.com/monthly-meeting/
-DTEND:20260801T230000Z
-LOCATION:Fonteinkerk
-DTSTART:20260801T220000Z
-SUMMARY:(NETWORKING) — Rotterdam
-UID:d55b97bd-5240-4680-b79c-c3a905788cdf@d55b.org
-URL:https://iwcrotterdam.com/monthly-meeting/
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://awca.nl/
+DTEND:20260731T230000Z
+LOCATION:Amsterdam
+DTSTART:20260731T220000Z
+SUMMARY:American Women’s Club of Amsterdam (NETWORKING) — Amsterdam
+UID:64298972-d7b3-4377-9663-babb08920a50@6429.org
+URL:https://awca.nl/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
@@ -25,17 +25,8 @@ DTEND:20260813T230000Z
 LOCATION:Stadsgehoorzaal
 DTSTART:20260813T220000Z
 SUMMARY:VrijMiBo Friday Afternoon Drinks (NETWORKING) — Leiden
-UID:c846270f-c173-4cbc-ba43-9ceb37c5b1c0@c846.org
+UID:a8a9257b-0fd0-4b0a-9b5b-225faaf261b3@a8a9.org
 URL:https://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/events/
-DTEND:20260802T230000Z
-LOCATION:Fifth Microlab The Hague Tech BUNK Hotel
-DTSTART:20260802T220000Z
-SUMMARY:Female Ventures Networking Drinks (BUSINESS / NETWORKING) — Eindhoven Rotterdam The Hague Utrecht
-UID:a0ca3d6b-4a11-4c85-891c-16e007ff1403@a0ca.org
-URL:https://femaleventures.nl/events/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849?viewDetails=true
@@ -43,8 +34,17 @@ DTEND:20260816T230000Z
 LOCATION:The Social Hub
 DTSTART:20260816T220000Z
 SUMMARY:Monday Morning Coffee (NETWORKING) — The Hague
-UID:c1b8ffbb-999e-4402-8452-fcdf079bbdfb@c1b8.org
+UID:51d563f8-314b-4209-aa53-a6134896abf3@51d5.org
 URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849?viewDetails=true
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/events/
+DTEND:20260802T230000Z
+LOCATION:Fifth Microlab The Hague Tech BUNK Hotel
+DTSTART:20260802T220000Z
+SUMMARY:Female Ventures Networking Drinks (BUSINESS / NETWORKING) — Eindhoven Rotterdam The Hague Utrecht
+UID:5d297511-28f0-46d6-9734-5eeb67dd746f@5d29.org
+URL:https://femaleventures.nl/events/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.lab-1.nl/event/helloeindhoven/
@@ -52,7 +52,7 @@ DTEND:20260731T230000Z
 LOCATION:LAB-1
 DTSTART:20260731T220000Z
 SUMMARY:Hello Eindhoven (NETWORKING) — Eindhoven
-UID:a054a165-d813-4268-abb1-d6d08d9ed8ed@a054.org
+UID:e3afe5ca-9834-4fb7-92a1-73a2487895d8@e3af.org
 URL:https://www.lab-1.nl/event/helloeindhoven/
 END:VEVENT
 BEGIN:VEVENT
@@ -61,16 +61,16 @@ DTEND:20260816T230000Z
 LOCATION:The Social Hub
 DTSTART:20260816T220000Z
 SUMMARY:Monday Morning Coffee (NETWORKING) — Eindhoven
-UID:f4540b48-04a5-4870-8c60-1dad7f9760ba@f454.org
+UID:e4eb5409-1f1e-4676-a854-ffda220277cf@e4eb.org
 URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1975823232476
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://awca.nl/
-DTEND:20260731T230000Z
-LOCATION:Amsterdam
-DTSTART:20260731T220000Z
-SUMMARY:American Women’s Club of Amsterdam (NETWORKING) — Amsterdam
-UID:3b092702-94c3-47c1-9cbf-2bb360aca93a@3b09.org
-URL:https://awca.nl/
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://iwcrotterdam.com/monthly-meeting/
+DTEND:20260801T230000Z
+LOCATION:Fonteinkerk
+DTSTART:20260801T220000Z
+SUMMARY:(NETWORKING) — Rotterdam
+UID:d159fd1b-2f97-42d4-b68f-894d54112e94@d159.org
+URL:https://iwcrotterdam.com/monthly-meeting/
 END:VEVENT
 END:VCALENDAR
