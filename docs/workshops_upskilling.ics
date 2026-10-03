@@ -2,12 +2,291 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/rotterdam-toastmasters
+DTEND:20050401T230000Z
+LOCATION:Nivon
+DTSTART:20050401T220000Z
+SUMMARY:Rotterdam Toastmasters (MEETING) — Rotterdam
+UID:ceb8bebe-b895-487a-b934-dcdcbb7f5c7a@ceb8.org
+URL:https://toastmasters.nl/en/tm-clubs/rotterdam-toastmasters
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/the-hague-university-toastmasters
+DTEND:20261006T230000Z
+LOCATION:The Hague University
+DTSTART:20261006T220000Z
+SUMMARY:The Hague University Toastmasters (MEETING) — The Hague
+UID:fc3971e6-75ef-4899-b117-2570177b88e0@fc39.org
+URL:https://toastmasters.nl/en/tm-clubs/the-hague-university-toastmasters
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://undutchables.nl/events/candidate-webinar-expectations-and-misconceptions-in-the-dutch-job-market-what-even-our-closest-neighbors-may-not-expect
+DTEND:20261029T000000Z
+LOCATION:Online
+DTSTART:20261028T230000Z
+SUMMARY:UNDUTCHABLES: Expectations & Misconceptions in the Dutch Job Market (WEBINAR) — Netherlands
+UID:197fb4d0-d370-4b2a-97d4-2e989bfb11b6@197f.org
+URL:https://undutchables.nl/events/candidate-webinar-expectations-and-misconceptions-in-the-dutch-job-market-what-even-our-closest-neighbors-may-not-expect
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-relationship-between-terrorism-and-art-smuggling
+DTEND:20261208T000000Z
+LOCATION:Pastoral Centre
+DTSTART:20261207T230000Z
+SUMMARY:The Relationship Between Terrorism and Art Smuggling (LECTURE) — The Hague
+UID:d6a79312-39d8-479f-a9fa-d116167dc03f@d6a7.org
+URL:https://theartssociety.org/events/lecture-relationship-between-terrorism-and-art-smuggling
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://access-nl.org/first-aid-courses/
+DTEND:20261002T230000Z
+LOCATION:Laurentius CC
+DTSTART:20261002T220000Z
+SUMMARY:Baby & Child First Aid (WORKSHOP) — Voorschoten
+UID:e8ab7692-c8c3-4ec3-b63b-f19ebe867f1b@e8ab.org
+URL:https://access-nl.org/first-aid-courses/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/amsterdam-toastmasters-club
+DTEND:20260401T230000Z
+LOCATION:Amsterdam
+DTSTART:20260401T220000Z
+SUMMARY:Amsterdam Toastmasters (MEETING) — Amsterdam
+UID:fa4e71e0-70b1-476f-a790-41477a4e2694@fa4e.org
+URL:https://toastmasters.nl/en/tm-clubs/amsterdam-toastmasters-club
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/breda-international-toastmasters
+DTEND:20260401T230000Z
+LOCATION:Lutheran Church
+DTSTART:20260401T220000Z
+SUMMARY:Breda International Toastmasters (MEETING) — Breda
+UID:e321b02a-64f8-4daa-a3ba-f9a4faf4f21d@e321.org
+URL:https://toastmasters.nl/en/tm-clubs/breda-international-toastmasters
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/fusion-toastmasters
+DTEND:20260401T230000Z
+LOCATION:Jordaan
+DTSTART:20260401T220000Z
+SUMMARY:Fusion Toastmasters (MEETING) — Amsterdam
+UID:ef8e61f1-3647-434d-9634-25e4b33decf1@ef8e.org
+URL:https://toastmasters.nl/en/tm-clubs/fusion-toastmasters
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-enigma-edward-elgar
+DTEND:20261012T230000Z
+LOCATION:Pastoral Centre
+DTSTART:20261012T220000Z
+SUMMARY:The Enigma of Edward Elgar (LECTURE) — The Hague
+UID:722136b0-01a8-4eb7-b1e5-292382e8746b@7221.org
+URL:https://theartssociety.org/events/lecture-enigma-edward-elgar
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-overshadowed
+DTEND:20270309T000000Z
+LOCATION:Pastoral Centre
+DTSTART:20270308T230000Z
+SUMMARY:The Overshadowed (LECTURE) — The Hague
+UID:6709933f-52a0-41cf-95e3-f30f4103d3f1@6709.org
+URL:https://theartssociety.org/events/lecture-overshadowed
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/toastmasters-groningen
+DTEND:20260301T000000Z
+LOCATION:Lust Cafe
+DTSTART:20260228T230000Z
+SUMMARY:Toastmasters Groningen (MEETING) — Groningen
+UID:40599b9f-bd43-411f-beba-44b3fff791cd@4059.org
+URL:https://toastmasters.nl/en/tm-clubs/toastmasters-groningen
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-art-cartoonist
+DTEND:20261110T000000Z
+LOCATION:Pastoral Centre
+DTSTART:20261109T230000Z
+SUMMARY:The Art of the Cartoonist (LECTURE) — The Hague
+UID:d63f5c77-3c20-465f-b09a-bd8613c92be9@d63f.org
+URL:https://theartssociety.org/events/lecture-art-cartoonist
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://boomchicago.nl/academy/improv-taster-class/
+DTEND:20261002T230000Z
+LOCATION:BOOM Chicago
+DTSTART:20261002T220000Z
+SUMMARY:Improv Taster Class (CLASS) — Amsterdam
+UID:40692e66-3f4c-42b3-95a1-99ec71127fed@4069.org
+URL:https://boomchicago.nl/academy/improv-taster-class/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.tedxthehague.com/
+DTEND:20261107T000000Z
+LOCATION:Louwman Museum
+DTSTART:20261106T230000Z
+SUMMARY:TEDxThe Hague: Beyond Uncertainty (TALK) — The Hague
+UID:0894a837-893f-48b2-b167-7b52cfadf16a@0894.org
+URL:https://www.tedxthehague.com/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://tmclub.eu/portal.php?c=312
+DTEND:20261008T230000Z
+LOCATION:Florin
+DTSTART:20261008T220000Z
+SUMMARY:Utrecht Toastmasters (MEETING) — Utrecht
+UID:2b7efec1-f92e-4152-8abf-7eaa85d9ce79@2b7e.org
+URL:https://tmclub.eu/portal.php?c=312
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.heinendelftsblauw.com/workshops
+DTEND:20261003T230000Z
+LOCATION:Muntplein Hippolytusbuurt 3
+DTSTART:20261003T220000Z
+SUMMARY:Heinen Delft Blue: Paint Your Own Tile (WORKSHOP) — Amsterdam Delft
+UID:194c9c3e-499b-48bc-b971-e9865c2b4789@194c.org
+URL:https://www.heinendelftsblauw.com/workshops
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://blond-amsterdam.com/over-blond-amsterdam/workshops-en-winkel/
+DTEND:20261003T230000Z
+LOCATION:Blond Amsterdam
+DTSTART:20261003T220000Z
+SUMMARY:Paint Your Own Blond Amsterdam (WORKSHOP) — Amsterdam
+UID:3f6b7362-24e7-4e46-800f-9cb83a660dd9@3f6b.org
+URL:https://blond-amsterdam.com/over-blond-amsterdam/workshops-en-winkel/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://access-nl.org/volunteering-for-access/info-morning-dates/
+DTEND:20261005T230000Z
+LOCATION:ACCESS
+DTSTART:20261005T220000Z
+SUMMARY:(INFORMATION SESSION) — The Hague
+UID:07aa7f56-d8de-453c-876d-bc0e02f2c5f3@07aa.org
+URL:https://access-nl.org/volunteering-for-access/info-morning-dates/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-igniting-rainbow
+DTEND:20270412T230000Z
+LOCATION:Pastoral Centre
+DTSTART:20270412T220000Z
+SUMMARY:Igniting The Rainbow (LECTURE) — The Hague
+UID:228c0ca7-f110-41f4-bf05-5a13da4e6ce5@228c.org
+URL:https://theartssociety.org/events/lecture-igniting-rainbow
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.modeworkshops.nl/english/ongoing-sewing-classes
+DTEND:20261005T230000Z
+LOCATION:Tessuti Stoffen & Zo
+DTSTART:20261005T220000Z
+SUMMARY:Sewing Classes (CLASS) — The Hague
+UID:30fd9dd3-ad2c-476b-a741-8d60f7a9e7ee@30fd.org
+URL:https://www.modeworkshops.nl/english/ongoing-sewing-classes
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://access-nl.org/first-aid-courses/
+DTEND:20261114T000000Z
+LOCATION:SenW
+DTSTART:20261113T230000Z
+SUMMARY:First Aid for All Ages (WORKSHOP) — Leidschendam
+UID:b77b29fd-357a-4446-8755-38bddcabced7@b77b.org
+URL:https://access-nl.org/first-aid-courses/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/lighttown-speakers
+DTEND:20261006T230000Z
+LOCATION:Dynamo
+DTSTART:20261006T220000Z
+SUMMARY:Lighttown Speakers – Toastmasters (MEETING) — Eindhoven
+UID:7db5c748-be78-4409-b1c4-a623be49289c@7db5.org
+URL:https://toastmasters.nl/en/tm-clubs/lighttown-speakers
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/u-speak
+DTEND:20260301T000000Z
+LOCATION:Florin
+DTSTART:20260228T230000Z
+SUMMARY:U-Speak! Toastmasters (MEETING) — Utrecht
+UID:e688c088-f42a-476b-92b3-abd75129e7c2@e688.org
+URL:https://toastmasters.nl/en/tm-clubs/u-speak
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://frontmania.com/
+DTEND:20261006T230000Z
+LOCATION:Jaarbeurs
+DTSTART:20261006T220000Z
+SUMMARY:Frontmania (CONFERENCE) — Utrecht
+UID:647c9d43-bc78-4c6d-92c8-18d4e034d7dd@647c.org
+URL:https://frontmania.com/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/toastmasters-of-the-hague
+DTEND:20260301T000000Z
+LOCATION:Christus Triumfatorkerk
+DTSTART:20260228T230000Z
+SUMMARY:Toastmasters of The Hague (MEETING) — The Hague
+UID:b1abd425-59bf-4067-9ff0-a262c5ef5035@b1ab.org
+URL:https://toastmasters.nl/en/tm-clubs/toastmasters-of-the-hague
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/amstelveen
+DTEND:20260401T230000Z
+LOCATION:Stadsplein 99
+DTSTART:20260401T220000Z
+SUMMARY:Amstelveen Toastmasters (MEETING) — Amstelveen
+UID:480bf33b-914f-4fe9-93cf-82fb6ddde235@480b.org
+URL:https://toastmasters.nl/en/tm-clubs/amstelveen
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/leiden-toastmasters
+DTEND:20260401T230000Z
+LOCATION:Dorpcentrum
+DTSTART:20260401T220000Z
+SUMMARY:Leiden Toastmasters (MEETING) — Oegstgeest
+UID:56a7b9ca-1cb7-4ac2-82f8-fbc67e1cf06e@56a7.org
+URL:https://toastmasters.nl/en/tm-clubs/leiden-toastmasters
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/toastmasters-maastricht
+DTEND:20260401T230000Z
+LOCATION:Maastricht University
+DTSTART:20260401T220000Z
+SUMMARY:Toastmasters Maastricht (MEETING) — Maastricht
+UID:ba5de98d-0a6d-4a33-8653-afc869d37a1e@ba5d.org
+URL:https://toastmasters.nl/en/tm-clubs/toastmasters-maastricht
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://access-nl.org/childbirth-courses/dates-locations/
+DTEND:20261002T230000Z
+LOCATION:Verloskundigen The Estate Landhuis in de Stad
+DTSTART:20261002T220000Z
+SUMMARY:(CLASS / COURSE) — Amsterdam The Hague Utrecht
+UID:f48e39de-8857-4204-af69-bb8e3bf3d5b1@f48e.org
+URL:https://access-nl.org/childbirth-courses/dates-locations/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://bijderoos.nl/webshop/bake-those-buns/
+DTEND:20261002T230000Z
+LOCATION:Bij de Roos
+DTSTART:20261002T220000Z
+SUMMARY:Bake Those Buns (WORKSHOP) — Delft
+UID:e5de7164-35c0-4dc9-94e2-1cf77d58389a@e5de.org
+URL:https://bijderoos.nl/webshop/bake-those-buns/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-admiral-de-ruyter-admiral-europe
+DTEND:20270112T000000Z
+LOCATION:Pastoral Centre
+DTSTART:20270111T230000Z
+SUMMARY:Admiral De Ruiter: Admiral of Europe (LECTURE) — The Hague
+UID:8c449712-e35c-4aee-88d2-28d36f7a1391@8c44.org
+URL:https://theartssociety.org/events/lecture-admiral-de-ruyter-admiral-europe
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-artists-illness-and-creativity
 DTEND:20270209T000000Z
 LOCATION:Pastoral Centre
 DTSTART:20270208T230000Z
 SUMMARY:Artist’s Illness and Creativity (LECTURE) — The Hague
-UID:6c932d3c-f9dc-4388-b12d-9d40e334d6ab@6c93.org
+UID:9d19e206-8fa5-4264-8004-4f83c553b646@9d19.org
 URL:https://theartssociety.org/events/lecture-artists-illness-and-creativity
 END:VEVENT
 BEGIN:VEVENT
@@ -16,161 +295,8 @@ DTEND:20270510T230000Z
 LOCATION:Pastoral Centre
 DTSTART:20270510T220000Z
 SUMMARY:Cracking Glass (LECTURE) — The Hague
-UID:410b3d92-3749-491c-a407-67692ddd0ecb@410b.org
+UID:987d2117-90ac-48c9-9474-a492820e9dc1@987d.org
 URL:https://theartssociety.org/events/lecture-cracking-glass
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/lighttown-speakers
-DTEND:20261006T230000Z
-LOCATION:Dynamo
-DTSTART:20261006T220000Z
-SUMMARY:Lighttown Speakers – Toastmasters (MEETING) — Eindhoven
-UID:90a5ffc3-e8b0-4660-9b91-66b0385b4ce7@90a5.org
-URL:https://toastmasters.nl/en/tm-clubs/lighttown-speakers
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-relationship-between-terrorism-and-art-smuggling
-DTEND:20261208T000000Z
-LOCATION:Pastoral Centre
-DTSTART:20261207T230000Z
-SUMMARY:The Relationship Between Terrorism and Art Smuggling (LECTURE) — The Hague
-UID:5937c971-5564-4201-97aa-9cf46c9f00d6@5937.org
-URL:https://theartssociety.org/events/lecture-relationship-between-terrorism-and-art-smuggling
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.tedxthehague.com/
-DTEND:20261107T000000Z
-LOCATION:Louwman Museum
-DTSTART:20261106T230000Z
-SUMMARY:TEDxThe Hague: Beyond Uncertainty (TALK) — The Hague
-UID:7c880ec0-2d68-4c3c-994a-0726afbc6df6@7c88.org
-URL:https://www.tedxthehague.com/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://tmclub.eu/portal.php?c=312
-DTEND:20261001T230000Z
-LOCATION:Florin
-DTSTART:20261001T220000Z
-SUMMARY:Utrecht Toastmasters (MEETING) — Utrecht
-UID:a97b0da9-8526-4a2b-b9f4-43be101a7192@a97b.org
-URL:https://tmclub.eu/portal.php?c=312
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-admiral-de-ruyter-admiral-europe
-DTEND:20270112T000000Z
-LOCATION:Pastoral Centre
-DTSTART:20270111T230000Z
-SUMMARY:Admiral De Ruiter: Admiral of Europe (LECTURE) — The Hague
-UID:a763a075-0967-4ad1-86d3-6173c017f71c@a763.org
-URL:https://theartssociety.org/events/lecture-admiral-de-ruyter-admiral-europe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://undutchables.nl/events/candidate-webinar-expectations-and-misconceptions-in-the-dutch-job-market-what-even-our-closest-neighbors-may-not-expect
-DTEND:20261029T000000Z
-LOCATION:Online
-DTSTART:20261028T230000Z
-SUMMARY:UNDUTCHABLES: Expectations & Misconceptions in the Dutch Job Market (WEBINAR) — Netherlands
-UID:414babed-4e04-4755-9889-aa635e3eb1b2@414b.org
-URL:https://undutchables.nl/events/candidate-webinar-expectations-and-misconceptions-in-the-dutch-job-market-what-even-our-closest-neighbors-may-not-expect
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/breda-international-toastmasters
-DTEND:20260401T230000Z
-LOCATION:Lutheran Church
-DTSTART:20260401T220000Z
-SUMMARY:Breda International Toastmasters (MEETING) — Breda
-UID:04628718-91e2-4b2e-afe2-ebd0b5875e16@0462.org
-URL:https://toastmasters.nl/en/tm-clubs/breda-international-toastmasters
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://access-nl.org/first-aid-courses/
-DTEND:20261002T230000Z
-LOCATION:Laurentius CC
-DTSTART:20261002T220000Z
-SUMMARY:Baby & Child First Aid (WORKSHOP) — Voorschoten
-UID:f6013f3e-6581-4843-a452-a9c676795adc@f601.org
-URL:https://access-nl.org/first-aid-courses/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://bijderoos.nl/webshop/bake-those-buns/
-DTEND:20261002T230000Z
-LOCATION:Bij de Roos
-DTSTART:20261002T220000Z
-SUMMARY:Bake Those Buns (WORKSHOP) — Delft
-UID:10d1eec7-b23f-4f80-a5bc-69946a0fb6e1@10d1.org
-URL:https://bijderoos.nl/webshop/bake-those-buns/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-igniting-rainbow
-DTEND:20270412T230000Z
-LOCATION:Pastoral Centre
-DTSTART:20270412T220000Z
-SUMMARY:Igniting The Rainbow (LECTURE) — The Hague
-UID:bdb93b4a-acd2-40af-9efd-435287c26936@bdb9.org
-URL:https://theartssociety.org/events/lecture-igniting-rainbow
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/toastmasters-groningen
-DTEND:20260301T000000Z
-LOCATION:Lust Cafe
-DTSTART:20260228T230000Z
-SUMMARY:Toastmasters Groningen (MEETING) — Groningen
-UID:4a709272-9995-417d-9379-f181a6b9ee05@4a70.org
-URL:https://toastmasters.nl/en/tm-clubs/toastmasters-groningen
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://boomchicago.nl/academy/improv-taster-class/
-DTEND:20261002T230000Z
-LOCATION:BOOM Chicago
-DTSTART:20261002T220000Z
-SUMMARY:Improv Taster Class (CLASS) — Amsterdam
-UID:9433ccd0-9aec-4312-98da-a58434649498@9433.org
-URL:https://boomchicago.nl/academy/improv-taster-class/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.modeworkshops.nl/english/ongoing-sewing-classes
-DTEND:20261005T230000Z
-LOCATION:Tessuti Stoffen & Zo
-DTSTART:20261005T220000Z
-SUMMARY:Sewing Classes (CLASS) — The Hague
-UID:82e8ddea-0e10-4373-ba87-549d7623bee2@82e8.org
-URL:https://www.modeworkshops.nl/english/ongoing-sewing-classes
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://blond-amsterdam.com/over-blond-amsterdam/workshops-en-winkel/
-DTEND:20261003T230000Z
-LOCATION:Blond Amsterdam
-DTSTART:20261003T220000Z
-SUMMARY:Paint Your Own Blond Amsterdam (WORKSHOP) — Amsterdam
-UID:7255d985-999e-4eab-9f10-65424359934e@7255.org
-URL:https://blond-amsterdam.com/over-blond-amsterdam/workshops-en-winkel/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://access-nl.org/childbirth-courses/dates-locations/
-DTEND:20261001T230000Z
-LOCATION:Verloskundigen The Estate Landhuis in de Stad
-DTSTART:20261001T220000Z
-SUMMARY:(CLASS / COURSE) — Amsterdam The Hague Utrecht
-UID:e4766ebd-fa5f-4334-b3e7-108162feb356@e476.org
-URL:https://access-nl.org/childbirth-courses/dates-locations/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/amsterdam-toastmasters-club
-DTEND:20260401T230000Z
-LOCATION:Amsterdam
-DTSTART:20260401T220000Z
-SUMMARY:Amsterdam Toastmasters (MEETING) — Amsterdam
-UID:a0563b7a-93aa-44d7-88c6-1bf2c00dd1f4@a056.org
-URL:https://toastmasters.nl/en/tm-clubs/amsterdam-toastmasters-club
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://access-nl.org/first-aid-courses/
-DTEND:20261114T000000Z
-LOCATION:SenW
-DTSTART:20261113T230000Z
-SUMMARY:First Aid for All Ages (WORKSHOP) — Leidschendam
-UID:793a1a6c-b2fa-429c-9a40-ab08805a102e@793a.org
-URL:https://access-nl.org/first-aid-courses/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://ferma.eu/events/ferma-forum-2026/
@@ -178,133 +304,7 @@ DTEND:20041006T192600Z
 LOCATION:Ahoy
 DTSTART:20041006T182600Z
 SUMMARY:FERMA Forum 2026: Widening the Lens (FORUM) — Rotterdam
-UID:5ec75f28-275a-4914-8a60-3d14d8d1cea1@5ec7.org
+UID:6d32e9d3-0d16-4538-b5aa-765e135a03f9@6d32.org
 URL:https://ferma.eu/events/ferma-forum-2026/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/fusion-toastmasters
-DTEND:20260401T230000Z
-LOCATION:Jordaan
-DTSTART:20260401T220000Z
-SUMMARY:Fusion Toastmasters (MEETING) — Amsterdam
-UID:b4df5ced-bb74-4a01-af83-c6ddae7c3993@b4df.org
-URL:https://toastmasters.nl/en/tm-clubs/fusion-toastmasters
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/toastmasters-maastricht
-DTEND:20260401T230000Z
-LOCATION:Maastricht University
-DTSTART:20260401T220000Z
-SUMMARY:Toastmasters Maastricht (MEETING) — Maastricht
-UID:81506985-4835-47d1-a24f-9feaf7614722@8150.org
-URL:https://toastmasters.nl/en/tm-clubs/toastmasters-maastricht
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/u-speak
-DTEND:20260301T000000Z
-LOCATION:Florin
-DTSTART:20260228T230000Z
-SUMMARY:U-Speak! Toastmasters (MEETING) — Utrecht
-UID:fca55020-91a4-447c-97a6-61460c3d81bd@fca5.org
-URL:https://toastmasters.nl/en/tm-clubs/u-speak
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-art-cartoonist
-DTEND:20261110T000000Z
-LOCATION:Pastoral Centre
-DTSTART:20261109T230000Z
-SUMMARY:The Art of the Cartoonist (LECTURE) — The Hague
-UID:645d986c-13c4-4853-be81-a0a313edfad8@645d.org
-URL:https://theartssociety.org/events/lecture-art-cartoonist
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-enigma-edward-elgar
-DTEND:20261012T230000Z
-LOCATION:Pastoral Centre
-DTSTART:20261012T220000Z
-SUMMARY:The Enigma of Edward Elgar (LECTURE) — The Hague
-UID:3de4408f-ca8c-4d11-a396-3664b1bfc24e@3de4.org
-URL:https://theartssociety.org/events/lecture-enigma-edward-elgar
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/amstelveen
-DTEND:20260401T230000Z
-LOCATION:Stadsplein 99
-DTSTART:20260401T220000Z
-SUMMARY:Amstelveen Toastmasters (MEETING) — Amstelveen
-UID:b786c7e5-b3fc-4682-be3d-97e79456b384@b786.org
-URL:https://toastmasters.nl/en/tm-clubs/amstelveen
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://frontmania.com/
-DTEND:20261006T230000Z
-LOCATION:Jaarbeurs
-DTSTART:20261006T220000Z
-SUMMARY:Frontmania (CONFERENCE) — Utrecht
-UID:96781915-2c8f-48bb-8001-4285afcb152c@9678.org
-URL:https://frontmania.com/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/rotterdam-toastmasters
-DTEND:20050401T230000Z
-LOCATION:Nivon
-DTSTART:20050401T220000Z
-SUMMARY:Rotterdam Toastmasters (MEETING) — Rotterdam
-UID:ff9757f4-147e-42b0-9333-0e2f7582883a@ff97.org
-URL:https://toastmasters.nl/en/tm-clubs/rotterdam-toastmasters
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://theartssociety.org/events/lecture-overshadowed
-DTEND:20270309T000000Z
-LOCATION:Pastoral Centre
-DTSTART:20270308T230000Z
-SUMMARY:The Overshadowed (LECTURE) — The Hague
-UID:99770522-4131-406e-a507-a9daac78a930@9977.org
-URL:https://theartssociety.org/events/lecture-overshadowed
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/leiden-toastmasters
-DTEND:20260401T230000Z
-LOCATION:Dorpcentrum
-DTSTART:20260401T220000Z
-SUMMARY:Leiden Toastmasters (MEETING) — Oegstgeest
-UID:4f237247-f677-4d16-99c3-74149354ddc4@4f23.org
-URL:https://toastmasters.nl/en/tm-clubs/leiden-toastmasters
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://www.heinendelftsblauw.com/workshops
-DTEND:20261003T230000Z
-LOCATION:Muntplein Hippolytusbuurt 3
-DTSTART:20261003T220000Z
-SUMMARY:Heinen Delft Blue: Paint Your Own Tile (WORKSHOP) — Amsterdam Delft
-UID:608a9879-981a-4554-9f9e-b0424aa920ba@608a.org
-URL:https://www.heinendelftsblauw.com/workshops
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/the-hague-university-toastmasters
-DTEND:20261006T230000Z
-LOCATION:The Hague University
-DTSTART:20261006T220000Z
-SUMMARY:The Hague University Toastmasters (MEETING) — The Hague
-UID:a13a55a6-243d-486b-b557-65bedb80680d@a13a.org
-URL:https://toastmasters.nl/en/tm-clubs/the-hague-university-toastmasters
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://access-nl.org/volunteering-for-access/info-morning-dates/
-DTEND:20261005T230000Z
-LOCATION:ACCESS
-DTSTART:20261005T220000Z
-SUMMARY:(INFORMATION SESSION) — The Hague
-UID:0f3126ee-1c6f-4790-aaf9-26068afd98f2@0f31.org
-URL:https://access-nl.org/volunteering-for-access/info-morning-dates/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Workshops & Training\nhttps://toastmasters.nl/en/tm-clubs/toastmasters-of-the-hague
-DTEND:20260301T000000Z
-LOCATION:Christus Triumfatorkerk
-DTSTART:20260228T230000Z
-SUMMARY:Toastmasters of The Hague (MEETING) — The Hague
-UID:abde1381-9ab0-4a29-ad51-3898b3d55d0e@abde.org
-URL:https://toastmasters.nl/en/tm-clubs/toastmasters-of-the-hague
 END:VEVENT
 END:VCALENDAR
