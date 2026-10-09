@@ -2,48 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/rotterdam/
-DTEND:20261013T230000Z
-LOCATION:Stationsplein 45
-DTSTART:20261013T220000Z
-SUMMARY:Negotiations Don’t Have To Be Scary (BUSINESS/ NETWORKING) — Rotterdam
-UID:22e6eaad-21ef-4a53-9efb-588c300a6bda@22e6.org
-URL:https://femaleventures.nl/rotterdam/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
-DTEND:20261008T230000Z
-LOCATION:Stadsgehoorzaal
-DTSTART:20261008T220000Z
-SUMMARY:VrijMiBo Friday Afternoon Drinks (NETWORKING) — Leiden
-UID:450799a8-444f-4427-90dd-57ea544967dc@4507.org
-URL:https://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://awca.nl/
-DTEND:20260930T230000Z
-LOCATION:Amsterdam
-DTSTART:20260930T220000Z
-SUMMARY:American Women’s Club of Amsterdam (NETWORKING) — Amsterdam
-UID:5ea1f76c-3436-4c67-943f-4c4b816ec714@5ea1.org
-URL:https://awca.nl/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.awcthehague.org/site/calendar/
-DTEND:20261001T230000Z
-LOCATION:AWC Clubhouse
-DTSTART:20261001T220000Z
-SUMMARY:(NETWORKING) — The Hague
-UID:408a4f7a-c9cf-45b6-beca-86eaddd8539d@408a.org
-URL:https://www.awcthehague.org/site/calendar/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849?viewDetails=true
 DTEND:20261011T230000Z
 LOCATION:The Social Hub
 DTSTART:20261011T220000Z
 SUMMARY:Monday Morning Coffee (NETWORKING) — The Hague
-UID:02b38b1a-4c48-409d-a4b9-d1941345864f@02b3.org
+UID:ec65e75d-dc2c-4541-9809-5d4d33c3ba9e@ec65.org
 URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849?viewDetails=true
 END:VEVENT
 BEGIN:VEVENT
@@ -52,8 +16,17 @@ DTEND:20261014T230000Z
 LOCATION:WestCord Hotel
 DTSTART:20261014T220000Z
 SUMMARY:Speed Dating with a Twist and Networking Drinks (BUSINESS/ NETWORKING) — Delft
-UID:5590c6e2-8cc3-4937-9eee-bd9b3cfa5f97@5590.org
+UID:a8326907-40db-4d7f-a85c-180f723b8712@a832.org
 URL:https://femaleventures.nl/delft-the-hague/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/rotterdam/
+DTEND:20261013T230000Z
+LOCATION:Stationsplein 45
+DTSTART:20261013T220000Z
+SUMMARY:Negotiations Don’t Have To Be Scary (BUSINESS/ NETWORKING) — Rotterdam
+UID:c4ceb915-7800-4638-95cb-cb92872a60ca@c4ce.org
+URL:https://femaleventures.nl/rotterdam/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://iwcrotterdam.com/monthly-meeting/
@@ -61,17 +34,17 @@ DTEND:20261001T230000Z
 LOCATION:Fonteinkerk
 DTSTART:20261001T220000Z
 SUMMARY:(NETWORKING) — Rotterdam
-UID:785e93ee-49dd-4051-be2d-adc89d18af91@785e.org
+UID:380899c8-0f72-4aad-b0dc-cb2b157a0ec0@3808.org
 URL:https://iwcrotterdam.com/monthly-meeting/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/amsterdam/
-DTEND:20261021T230000Z
-LOCATION:Muntstaete
-DTSTART:20261021T220000Z
-SUMMARY:Fail Forward: Fall. Rise. Learn. (BUSINESS/ NETWORKING) — Amsterdam
-UID:5d3aa107-4f7a-46ff-8135-c69dc2af1156@5d3a.org
-URL:https://femaleventures.nl/amsterdam/
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
+DTEND:20261008T230000Z
+LOCATION:Stadsgehoorzaal
+DTSTART:20261008T220000Z
+SUMMARY:VrijMiBo Friday Afternoon Drinks (NETWORKING) — Leiden
+UID:84acedc7-75c3-4cc0-91a8-56643b1f80c7@84ac.org
+URL:https://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-drink-tickets-1997979660950
@@ -79,8 +52,17 @@ DTEND:20261011T230000Z
 LOCATION:The Social Hub
 DTSTART:20261011T220000Z
 SUMMARY:Monday Morning Drink (NETWORKING) — Eindhoven
-UID:9d2cedee-0a61-4951-884a-78b6d7d54218@9d2c.org
+UID:7af9a31d-5883-419e-b378-d6a65f61d510@7af9.org
 URL:https://www.eventbrite.co.uk/e/monday-morning-drink-tickets-1997979660950
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.awcthehague.org/site/calendar/
+DTEND:20261001T230000Z
+LOCATION:AWC Clubhouse
+DTSTART:20261001T220000Z
+SUMMARY:(NETWORKING) — The Hague
+UID:061f9af3-f970-42f7-b71b-06f0c41f8133@061f.org
+URL:https://www.awcthehague.org/site/calendar/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/delft-the-hague/
@@ -88,7 +70,25 @@ DTEND:20261023T230000Z
 LOCATION:VOCO Hotel
 DTSTART:20261023T220000Z
 SUMMARY:Her Founder Journey (BUSINESS/ NETWORKING) — The Hague
-UID:590accc1-0502-4db2-870b-456c67ba2181@590a.org
+UID:31882a40-9daa-48ee-931f-efdfaa753cf3@3188.org
 URL:https://femaleventures.nl/delft-the-hague/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://awca.nl/
+DTEND:20260930T230000Z
+LOCATION:Amsterdam
+DTSTART:20260930T220000Z
+SUMMARY:American Women’s Club of Amsterdam (NETWORKING) — Amsterdam
+UID:49c3babd-266a-4c84-b944-d45c4929cd9a@49c3.org
+URL:https://awca.nl/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://femaleventures.nl/amsterdam/
+DTEND:20261021T230000Z
+LOCATION:Muntstaete
+DTSTART:20261021T220000Z
+SUMMARY:Fail Forward: Fall. Rise. Learn. (BUSINESS/ NETWORKING) — Amsterdam
+UID:a83b2a0d-e52e-4610-b595-c82de9736e5e@a83b.org
+URL:https://femaleventures.nl/amsterdam/
 END:VEVENT
 END:VCALENDAR
