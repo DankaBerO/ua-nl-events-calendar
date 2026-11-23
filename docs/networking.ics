@@ -2,31 +2,22 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://iwcrotterdam.com/monthly-meeting/
-DTEND:20261102T000000Z
-LOCATION:Fonteinkerk
-DTSTART:20261101T230000Z
-SUMMARY:(NETWORKING) — Rotterdam
-UID:491dd3c4-701f-48eb-82f2-a93a937135cc@491d.org
-URL:https://iwcrotterdam.com/monthly-meeting/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849?viewDetails=true
 DTEND:20261123T000000Z
 LOCATION:The Social Hub
 DTSTART:20261122T230000Z
 SUMMARY:Monday Morning Coffee (NETWORKING) — The Hague
-UID:97b6a179-4970-4625-af3f-eec2f46f238d@97b6.org
+UID:7bac6b1f-38fc-4683-9879-0a9ec20a8fab@7bac.org
 URL:https://www.eventbrite.co.uk/e/monday-morning-coffee-tickets-1490999903849?viewDetails=true
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://awca.nl/
-DTEND:20261101T000000Z
-LOCATION:Amsterdam
-DTSTART:20261031T230000Z
-SUMMARY:American Women’s Club of Amsterdam (NETWORKING) — Amsterdam
-UID:e3dccfce-8927-4972-bbce-eb3c5dcda219@e3dc.org
-URL:https://awca.nl/
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
+DTEND:20261127T000000Z
+LOCATION:Stadsgehoorzaal
+DTSTART:20261126T230000Z
+SUMMARY:VrijMiBo Friday Afternoon Drinks (NETWORKING) — Leiden
+UID:dd4f3684-db07-4749-9bac-5f1119a9a333@dd4f.org
+URL:https://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://www.awcthehague.org/site/calendar/
@@ -34,17 +25,8 @@ DTEND:20261102T000000Z
 LOCATION:AWC Clubhouse
 DTSTART:20261101T230000Z
 SUMMARY:(NETWORKING) — The Hague
-UID:4c0e3a17-43ca-46ca-ad88-de83c731979f@4c0e.org
+UID:5d74385e-87be-481c-9ee3-dac453ef4000@5d74.org
 URL:https://www.awcthehague.org/site/calendar/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://aabc.nl/upcoming-AABC-events
-DTEND:20261112T000000Z
-LOCATION:Back to Black
-DTSTART:20261111T230000Z
-SUMMARY:(NETWORKING/ BUSINESS) — Amsterdam
-UID:beadcd0b-49ea-4328-babb-8ca87e0eca55@bead.org
-URL:https://aabc.nl/upcoming-AABC-events
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://womensbusinessinitiative.net/events/
@@ -52,7 +34,7 @@ DTEND:20261126T000000Z
 LOCATION:Online ROOM
 DTSTART:20261125T230000Z
 SUMMARY:(BUSINESS/ NETWORKING) — The Hague
-UID:18faee50-840c-4835-aa32-f42e7c2713b6@18fa.org
+UID:8105c68c-5d20-4e04-9cae-fc7255e80505@8105.org
 URL:https://womensbusinessinitiative.net/events/
 END:VEVENT
 BEGIN:VEVENT
@@ -61,16 +43,34 @@ DTEND:20261123T000000Z
 LOCATION:The Social Hub
 DTSTART:20261122T230000Z
 SUMMARY:Monday Morning Drink (NETWORKING) — Eindhoven
-UID:0c8a6c90-d5af-4dd3-aad3-96c2514221a7@0c8a.org
+UID:69b19984-b79d-499f-8182-3770f3450184@69b1.org
 URL:https://www.eventbrite.co.uk/e/monday-morning-drink-tickets-1997979660950
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
-DTEND:20261127T000000Z
-LOCATION:Stadsgehoorzaal
-DTSTART:20261126T230000Z
-SUMMARY:VrijMiBo Friday Afternoon Drinks (NETWORKING) — Leiden
-UID:8655d689-6a32-4e90-948b-923d0ba9260b@8655.org
-URL:https://leidseschouwburg-stadsgehoorzaal.nl/cafe-caat/agenda/
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://aabc.nl/upcoming-AABC-events
+DTEND:20261112T000000Z
+LOCATION:Back to Black
+DTSTART:20261111T230000Z
+SUMMARY:(NETWORKING/ BUSINESS) — Amsterdam
+UID:11dee853-80a2-48d4-bc88-b890948dec54@11de.org
+URL:https://aabc.nl/upcoming-AABC-events
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://iwcrotterdam.com/monthly-meeting/
+DTEND:20261102T000000Z
+LOCATION:Fonteinkerk
+DTSTART:20261101T230000Z
+SUMMARY:(NETWORKING) — Rotterdam
+UID:ddb49126-d1a9-4e2c-b35e-679b76a76d8a@ddb4.org
+URL:https://iwcrotterdam.com/monthly-meeting/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Source: ExpatInfoHolland – Networking Events\nhttps://awca.nl/
+DTEND:20261101T000000Z
+LOCATION:Amsterdam
+DTSTART:20261031T230000Z
+SUMMARY:American Women’s Club of Amsterdam (NETWORKING) — Amsterdam
+UID:e736d195-3639-42e6-8f91-3c15eee7116f@e736.org
+URL:https://awca.nl/
 END:VEVENT
 END:VCALENDAR
